@@ -20,11 +20,7 @@ clang++ main.cpp -o maze-app
 ```
 ### Run the app
 
-Parameters are positional
-12 is seed generator
-5 is number of rows
-5 is number of columns
-output.txt is file output will be written to
+Parameters are positional. 12 is seed #. 5 is number of rows. 5 is number of columns. output.txt is file output will be written to
 
 ```
 ./maze-app 12 5 5 output.txt
